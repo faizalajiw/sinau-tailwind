@@ -568,7 +568,7 @@ Ensure the default browser behavior of the `hidden` attribute.
 
 .bg-bangkit-blue {
   --tw-bg-opacity: 1;
-  background-color: rgb(36 42 69 / var(--tw-bg-opacity));
+  background-color: rgb(11 77 204 / var(--tw-bg-opacity));
 }
 
 .py-4 {
@@ -593,10 +593,6 @@ Ensure the default browser behavior of the `hidden` attribute.
 
 .text-center {
   text-align: center;
-}
-
-.font-Poppins {
-  font-family: Poppins, sans-serif;
 }
 
 .text-sm {
@@ -629,7 +625,7 @@ Ensure the default browser behavior of the `hidden` attribute.
 
 .text-bangkit-blue {
   --tw-text-opacity: 1;
-  color: rgb(36 42 69 / var(--tw-text-opacity));
+  color: rgb(11 77 204 / var(--tw-text-opacity));
 }
 
 .text-white {
@@ -642,7 +638,7 @@ Ensure the default browser behavior of the `hidden` attribute.
   color: rgb(145 148 162 / var(--tw-text-opacity));
 }
 
-@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;500;600;700&family=Poppins:wght@400;500;600;700&display=swap');
 
 .btn {
   border-radius: 0.375rem;
@@ -662,7 +658,7 @@ Ensure the default browser behavior of the `hidden` attribute.
 
 .btn-blue {
   --tw-bg-opacity: 1;
-  background-color: rgb(36 42 69 / var(--tw-bg-opacity));
+  background-color: rgb(11 77 204 / var(--tw-bg-opacity));
   --tw-text-opacity: 1;
   color: rgb(255 255 255 / var(--tw-text-opacity));
 }
@@ -679,12 +675,12 @@ Ensure the default browser behavior of the `hidden` attribute.
 
 .hover\:bg-bangkit-blue:hover {
   --tw-bg-opacity: 1;
-  background-color: rgb(36 42 69 / var(--tw-bg-opacity));
+  background-color: rgb(11 77 204 / var(--tw-bg-opacity));
 }
 
 .hover\:text-bangkit-blue:hover {
   --tw-text-opacity: 1;
-  color: rgb(36 42 69 / var(--tw-text-opacity));
+  color: rgb(11 77 204 / var(--tw-text-opacity));
 }
 
 .hover\:text-bangkit-white:hover {

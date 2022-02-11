@@ -3,15 +3,16 @@ module.exports = {
   theme: {
     extend: {
       colors: {
-        "bangkit-purple": "#5267DF",
+        "bangkit-dongker": "#242A45",
         "bangkit-red": "#FA5959",
-        "bangkit-blue": "#242A45",
+        "bangkit-blue": "#0B4DCC",
         "bangkit-grey": "#9194A2",
         "bangkit-white": "#F7F7F7",
       },
     },
     fontFamily: {
-      Poppins: ["Poppins, sans-serif"],
+      OpenSans: ["Open Sans", "sans-serif"],
+      Poppins: ["Poppins", "sans-serif"],
     },
     fontWeight: {
       normal: 400,
