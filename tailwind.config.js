@@ -3,11 +3,11 @@ module.exports = {
   theme: {
     extend: {
       colors: {
-        "bangkit-dongker": "#242A45",
-        "bangkit-red": "#FA5959",
-        "bangkit-blue": "#0B4DCC",
-        "bangkit-grey": "#9194A2",
-        "bangkit-white": "#F7F7F7",
+        "toko-dongker": "#242A45",
+        "toko-red": "#FA5959",
+        "toko-blue": "#0B4DCC",
+        "toko-grey": "#9194A2",
+        "toko-white": "#F7F7F7",
       },
     },
     fontFamily: {

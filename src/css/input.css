@@ -8,9 +8,9 @@
 }
 
 .btn-blue {
-    @apply bg-bangkit-blue text-white;
+    @apply bg-toko-blue text-white;
 }
 
 .btn-white {
-    @apply bg-bangkit-white;
+    @apply bg-toko-white;
 }

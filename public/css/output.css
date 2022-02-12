@@ -566,7 +566,7 @@ Ensure the default browser behavior of the `hidden` attribute.
   border-radius: 0.375rem;
 }
 
-.bg-bangkit-blue {
+.bg-toko-blue {
   --tw-bg-opacity: 1;
   background-color: rgb(11 77 204 / var(--tw-bg-opacity));
 }
@@ -623,7 +623,7 @@ Ensure the default browser behavior of the `hidden` attribute.
   text-transform: uppercase;
 }
 
-.text-bangkit-blue {
+.text-toko-blue {
   --tw-text-opacity: 1;
   color: rgb(11 77 204 / var(--tw-text-opacity));
 }
@@ -633,7 +633,7 @@ Ensure the default browser behavior of the `hidden` attribute.
   color: rgb(255 255 255 / var(--tw-text-opacity));
 }
 
-.text-bangkit-grey {
+.text-toko-grey {
   --tw-text-opacity: 1;
   color: rgb(145 148 162 / var(--tw-text-opacity));
 }
@@ -668,22 +668,22 @@ Ensure the default browser behavior of the `hidden` attribute.
   background-color: rgb(247 247 247 / var(--tw-bg-opacity));
 }
 
-.hover\:bg-bangkit-white:hover {
+.hover\:bg-toko-white:hover {
   --tw-bg-opacity: 1;
   background-color: rgb(247 247 247 / var(--tw-bg-opacity));
 }
 
-.hover\:bg-bangkit-blue:hover {
+.hover\:bg-toko-blue:hover {
   --tw-bg-opacity: 1;
   background-color: rgb(11 77 204 / var(--tw-bg-opacity));
 }
 
-.hover\:text-bangkit-blue:hover {
+.hover\:text-toko-blue:hover {
   --tw-text-opacity: 1;
   color: rgb(11 77 204 / var(--tw-text-opacity));
 }
 
-.hover\:text-bangkit-white:hover {
+.hover\:text-toko-white:hover {
   --tw-text-opacity: 1;
   color: rgb(247 247 247 / var(--tw-text-opacity));
 }
