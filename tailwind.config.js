@@ -5,8 +5,9 @@ module.exports = {
       colors: {
         "toko-dongker": "#242A45",
         "toko-red": "#FA5959",
-        "toko-blue": "#0B4DCC",
+        "toko-blue": "#4444A5",
         "toko-grey": "#9194A2",
+        "toko-grey2": "#ECEEEE",
         "toko-white": "#F7F7F7",
       },
     },
