@@ -11,6 +11,10 @@
     @apply bg-toko-blue text-white;
 }
 
+.btn-red {
+    @apply bg-toko-red text-white;
+}
+
 .btn-white {
     @apply bg-toko-white;
 }

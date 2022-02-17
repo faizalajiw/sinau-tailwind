@@ -16,6 +16,7 @@ module.exports = {
       Poppins: ["Poppins", "sans-serif"],
     },
     fontWeight: {
+      light: 300,
       normal: 400,
       medium: 500,
       bold: 700,
