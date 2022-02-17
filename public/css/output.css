@@ -585,11 +585,6 @@ Ensure the default browser behavior of the `hidden` attribute.
   background-color: rgb(68 68 165 / var(--tw-bg-opacity));
 }
 
-.bg-toko-grey {
-  --tw-bg-opacity: 1;
-  background-color: rgb(145 148 162 / var(--tw-bg-opacity));
-}
-
 .bg-toko-grey2 {
   --tw-bg-opacity: 1;
   background-color: rgb(236 238 238 / var(--tw-bg-opacity));
