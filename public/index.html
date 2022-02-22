@@ -11,12 +11,18 @@
 <body class="font-display">
     <!-- HEADER -->
     <header>
-        <nav class="container flex items-center py-4 mt-4 sm:mt-12">
+        <nav class="container flex items-center py-4 mt-4 sm:mt-12" id="navigasi">
             <div class="py-1"><img src="img/logo.svg" alt=""></div>
             <ul class="hidden sm:flex flex-1 justify-end items-center gap-12 text-toko-blue uppercase text-sm font-bold">
-                <li class="cursor-pointer">About</li>
-                <li class="cursor-pointer">Product</li>
-                <li class="cursor-pointer">Contact</li>
+                <li class="cursor-pointer">
+                    <a href="#about">About</a>
+                </li>
+                <li class="cursor-pointer">
+                    <a href="#product">Product</a>
+                </li>
+                <li class="cursor-pointer">
+                    <a href="#contact">Contact</a>
+                </li>
                 <button type="button" class="bg-toko-red text-white rounded-md px-7 py-3">Login</button>
             </ul>
 
@@ -55,7 +61,7 @@
     </section>
 
     <!-- FEATURES #1-->
-    <section class="bg-toko-grey2 py-10 mt-20 lg:mt-20">
+    <section class="bg-toko-grey2 py-10 mt-20 lg:mt-20" id="about">
         <!-- HEADING -->
         <div class="sm:w-3/4 lg:w-5/12 mx-auto px-2">
             <h1 class="text-3xl text-center text-toko-blue">About</h1>
@@ -95,7 +101,7 @@
     <!-- Product -->
     <section class="py-10 mt-10">
         <!-- HEADING -->
-        <div class="sm:w-3/4 lg:w-5/12 mx-auto px-2">
+        <div class="sm:w-3/4 lg:w-5/12 mx-auto px-2" id="product">
             <h1 class="text-3xl text-center text-toko-blue">Our Product</h1>
             <p class="text-center text-toko-grey mt-4">
                 Lorem, ipsum dolor sit amet consectetur adipisicing elit. 
@@ -179,7 +185,7 @@
         
     <!-- CONTACT Us -->
     <section class="bg-toko-blue text-toko-white py-5">
-        <div class="relative mt-1 lg:mt-1">
+        <div class="relative mt-1 lg:mt-1" id="contact">
             <div class="container flex flex-col lg:flex-row-reverse items-center justify-center gap-x-24">
                 <!-- IMAGES -->
                 <div class="flex flex-1 justify-center z-10 mb-10 lg:mb-0">
@@ -208,11 +214,19 @@
         <div class="container flex flex-col md:flex-row items-center">
             <div class="flex flex-1 flex-wrap items-center justify-center md:justify-start gap-12">
 
-                <h1 class="flex cursor-pointer text-toko-white font-bold text-lg">TokoLaut</h1>
+                <h1 class="flex cursor-pointer text-toko-white font-bold text-lg">
+                    <a href="#navigasi">TokoLaut</a> 
+                </h1>
                 <ul class="flex text-toko-white gap-12 text-sm">
-                    <li class="cursor-pointer">About</li>
-                    <li class="cursor-pointer">Product</li>
-                    <li class="cursor-pointer">Contact</li>
+                    <li class="cursor-pointer">
+                        <a href="#about">About</a>
+                    </li>
+                    <li class="cursor-pointer">
+                        <a href="#product">Product</a>
+                    </li>
+                    <li class="cursor-pointer">
+                        <a href="#contact">Contact</a>
+                    </li>
                 </ul>
             </div>
             <div class="flex gap-10 mt-12 md:mt-0">
